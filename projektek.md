@@ -34,6 +34,10 @@ A Cantores.hu egy kántoroknak és más érdeklődőknek szóló platform, amely
 - Forráskód: [github.com/szentjozsefhackathon/cantores.hu](https://github.com/szentjozsefhackathon/cantores)
 - Honlap: [cantores.hu](https://cantores.hu)
 
+### Aretino
+
+[Aretino Chant](https://aretino-chant.github.io) - Eredetileg a Cantores.hu kottaszerkesztője számára készült az Aretino kottázási formátum. Ennek viszont nemzetközi egyházzenei jelentősége van, ezért saját, angol nyelvű oldalt is kapott.
+
 ## NapiPakk 
 ![](https://img.shields.io/github/last-commit/szentjozsefhackathon/napi-lelki-batyu?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/napi-lelki-batyu?style=for-the-badge) 
